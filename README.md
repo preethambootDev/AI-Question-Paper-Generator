@@ -1,0 +1,3 @@
+### 🧠 AI-Based Question Paper Generator
+
+This project is an AI-powered system that automatically generates question papers based on the selected subject, topics, difficulty level, and question format. Using NLP and machine learning techniques, the model intelligently creates structured, diverse, and syllabus-aligned questions within seconds. It is designed to help educators, students, and institutions reduce manual effort, improve assessment quality, and generate customizable question papers effortlessly. With features like, topic filtering, and smart question variation, this tool makes exam creation faster, smarter, and more efficient.
